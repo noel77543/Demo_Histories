@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_Histories</string>
+    <string name="main_search_hint">輸入關鍵字</string>
+    <string name="main_search_clear_all">清除所有記錄</string>
+</resources>
